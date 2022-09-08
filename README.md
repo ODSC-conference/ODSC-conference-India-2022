@@ -4,7 +4,7 @@
 
 **Presenters**
 - Ravi Ranjan [ LinkedIn : https://bit.ly/ravi-ranjan-03  Twitter : @raviranjan03  ]
-- Sushant Burnawal [ LinkedIn : https://www.linkedin.com/in/sushant-burnawal-b50a2016b/ ]
+- Sushant Burnawal [ LinkedIn : https://bit.ly/sushant-burnawal ]
 
 --- 
 
