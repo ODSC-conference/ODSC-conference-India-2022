@@ -10,5 +10,5 @@
 
 ### Session Content
 
-1. Slides [ PDF : XXXXXX ]
-3. Code [ XXXXXX ]
+1. Slides [ PDF : https://github.com/ODSC-conference/ODSC-conference-India-2022/blob/main/ODSC-session-deck.pdf ]
+3. Code [ https://github.com/ODSC-conference/ODSC-conference-India-2022/tree/main/code ]
